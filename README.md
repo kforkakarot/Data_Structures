@@ -1,2 +1,2 @@
 # Data_Structures
-Data structures and algorithm
+Standard Traversal and Functions on Graphs and Trees
