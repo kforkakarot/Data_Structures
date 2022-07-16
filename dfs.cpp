@@ -22,6 +22,8 @@ int main()
         cin>>node1>>node2;
         g[node1].push_back(node2);
     }
-    
+    int begin;
+    cin>>begin;
     vector<bool> vis(vertex,false);
+    dfs(g,begin,vis);
 }
