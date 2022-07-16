@@ -1,4 +1,4 @@
-#leetcode 51 N-Queens
+/*leetcode 51 N-Queens  optimized solution using hash sets , learned from strivers solution on youtube*/
 
 class Solution {
 public:
